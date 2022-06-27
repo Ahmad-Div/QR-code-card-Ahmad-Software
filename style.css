@@ -11,8 +11,8 @@
 }
 
 footer {
-    position: absolute;
-    bottom: 30px;
+    position: fixed;
+    bottom: 0;
     width: 100%;
 }
 
